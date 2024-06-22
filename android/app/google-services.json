@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641091380193",
+    "project_id": "flutter-firebase-token",
+    "storage_bucket": "flutter-firebase-token.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641091380193:android:ec55319ba05094448ce8a0",
+        "android_client_info": {
+          "package_name": "br.com.codersconcept.sample_flutterfire_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrF3jDiQhoEQCXGr5eZph0FK791xBkUHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
